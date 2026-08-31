@@ -1,4 +1,4 @@
-# 라즈베리 파이를 활용한 LED 두더지 게임 (IoT Embedded Mole Game)
+# 라즈베리 파이를 활용한 LED 두더지 게임 (IoT Mole Game)
 
 3학년 2학기 'IoT 실습과 응용' 강의에서 배운 임베디드 GPIO 제어, 실시간 비동기 프로그래밍 및 TCP/IP 네트워크 통신 기술을 종합하여 구현한 IoT 기반 대전형 LED 두더지 게임 프로젝트입니다.
 

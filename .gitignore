@@ -1,0 +1,25 @@
+# 1. C 컴파일 실행 파일 및 목적 파일 (빌드 결과물)
+mole_game
+*.o
+*.out
+*.exe
+
+# 2. Python 바이트코드 및 캐시 파일
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 3. 운영체제 자동 생성 파일
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 4. 에디터 및 IDE 설정 파일
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 5. 로그 파일
+*.log
